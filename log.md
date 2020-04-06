@@ -1,14 +1,17 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Log - Sarah Brown
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: April 06, 2020 (Monday)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**:
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+- Finished the setup for my 100 Days of Code Github repo (does that count? lol)
+- Installed AWS Elastic Beanstalk Command Line Interface on my machine (for work)
+- Researched getting started with a Python "Rock Paper Scissors" game
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:**
+Day one... I think I copped out a bit today, but I feel like I was getting myself organised. I spent a bit of time 'window shopping' researching projects I might try (here are some ideas: https://github.com/florinpop17/app-ideas). I need to find a way to prioritise this and/or find a good routine.
 
+<!--
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
@@ -27,4 +30,4 @@
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
