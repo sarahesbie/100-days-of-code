@@ -11,6 +11,20 @@
 **Thoughts:**
 Day one... I think I copped out a bit today, but I feel like I was getting myself organised. I spent a bit of time 'window shopping' researching projects I might try (here are some ideas: https://github.com/florinpop17/app-ideas). I need to find a way to prioritise this and/or find a good routine.
 
+### Day 2: April 07, 2020 (Tuesday)
+
+**Today's Progress**:
+
+- Started Python 'Rock Paper Scissors' Game
+  - Created repo
+  - Added starter code
+- Started Udacity Intro to Python from scratch, lesson one: Turtles and Code!
+
+**Thoughts:**
+I started playing around in the Rock Paper Scissors starter code as a way to get back into Python. I'm VERY rusty. I'm going back to the v e r y beginning because I really want to get the fundamentals down. I'm now working through the Udacity Intro to Python modules from the very start.
+
+**Link(s) to work**: [Rock Paper Scissors python repository](https://github.com/sarahesbie/rock-paper-scissors-python)
+
 <!--
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
