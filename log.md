@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log - Sarah Brown
 
+### Day 5: APril 10, 2020 (Friday)
+
+**Today's Progress**:
+This was a public holiday, so... I didn't really acheive anything. If it counts, I played this [Code a Cake](https://www.bt.com/codeacake/) game, and with the Code Like a Girl [Easter Bug Scavenger Hunt](https://puzzles.codelikeagirl.com/puzzles/scavenger-hunt) game.
+
 ### Day 4: April 09, 2020 (Thursday)
 
 **Today's Progress**:
