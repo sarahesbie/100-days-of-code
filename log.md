@@ -1,6 +1,42 @@
 # 100 Days Of Code - Log - Sarah Brown
 
-### Day 5: APril 10, 2020 (Friday)
+### Day 7: April 14, 2020 (Tuesday)
+
+**Today's Progress**:
+Kept it simple with continuing Intro to Python. Worked through the following concepts:
+
+- errors in Python
+- modules & methods
+- comments in Python
+- sequencing
+- using variables
+- looping
+
+### Day 6: April 13, 2020 (Monday)
+
+**Today's Progress**:
+Continued work on WordPress secret art project I'm doing with a few friends. Not strictly coding but definitely software development.
+
+- researched how to connect a GitHub repository to Cpanel for WP theme and plugin development (TODO)
+- played with post formats in functions.php
+- configured user signup via BuddyPress & tested
+
+### Day 6: April 11, 2020 (Saturday)
+
+Continued work on WordPress secret art project I'm doing with a few friends. Not strictly coding but definitely software development.
+
+- Configured remote mail server to allow mail to be sent
+- Moved WordPress install to a live host
+
+### Day 6: April 11, 2020 (Saturday)
+
+**Today's Progress**:
+I started work on a WordPress project for a _secret art project_ I'm doing with some of my friends. Not strictly coding but definitely software development.
+
+- Started tinkering with BuddyPress on a Wordpress installation
+- playing with themes and plugins
+
+### Day 5: April 10, 2020 (Friday)
 
 **Today's Progress**:
 This was a public holiday, so... I didn't really acheive anything. If it counts, I played this [Code a Cake](https://www.bt.com/codeacake/) game, and with the Code Like a Girl [Easter Bug Scavenger Hunt](https://puzzles.codelikeagirl.com/puzzles/scavenger-hunt) game.
