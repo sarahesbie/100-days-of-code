@@ -1,5 +1,34 @@
 # 100 Days Of Code - Log - Sarah Brown
 
+### Day 10: April 17, 2020 (Friday)
+
+**Today's Progress**:
+Definitely didn't do an hour. Eep.
+
+- Tinkered with the Let's Get Away arrangement
+
+**Thoughts**
+I still feel like I'm a little bit all over the place. Maybe I should create a 'running projects list' in this github repo. That's a job for next week I think.
+
+**Link(s) to work**: [Let's Get Away Song arrangement repo](https://github.com/sarahesbie/lets-get-away-arrangement)
+
+### Day 9: April 16, 2020 (Thursday)
+
+**Today's Progress**:
+I took part in a Sonic Pi workshop today - tinkered with the basics of Sonic Pi & started working on an arrangement of a song written by a friend of mine.
+
+**Link(s) to work**: [Let's Get Away Song arrangement repo](https://github.com/sarahesbie/lets-get-away-arrangement)
+
+### Day 8: April 15, 2020 (Wednesday)
+
+**Today's Progress**:
+Copping out today and counting my work done on the job for the 100 Day Challenge :)
+All React JS:
+
+- fixed a text field that was not accepting a value
+- filtered items out of a list based on their attributes
+- fixed attributes not printing on front end in activity log items
+
 ### Day 7: April 14, 2020 (Tuesday)
 
 **Today's Progress**:
