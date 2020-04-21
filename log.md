@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log - Sarah Brown
 
-### Day 10: April 21, 2020 (Tuesday)
+### Day 14: April 21, 2020 (Tuesday)
 
 **Today's Progress**:
 Spent an hour going back-to-basics with Ruby via Codecademy's Ruby tutorial.
@@ -16,7 +16,7 @@ Concepts covered:
 - User input: gets and gets.chomp
 - Elseif statements
 
-### Day 10: April 20, 2020 (Monday)
+### Day 13: April 20, 2020 (Monday)
 
 Skipped
 
