@@ -1,11 +1,41 @@
 # 100 Days Of Code - Log - Sarah Brown
 
+### Day 10: April 21, 2020 (Tuesday)
+
+**Today's Progress**:
+Spent an hour going back-to-basics with Ruby via Codecademy's Ruby tutorial.
+Concepts covered:
+
+- Variables
+- Puts and print
+- Single-line and multi-line comments
+- Data types: numeric, string, boolean
+- Arithmetic operations
+- Object methods: .upcase, .downcase, .capitalize, .reverse
+- String interpolation
+- User input: gets and gets.chomp
+- Elseif statements
+
+### Day 10: April 20, 2020 (Monday)
+
+Skipped
+
+### Day 12: April 19, 2020 (Sunday)
+
+Skipped
+
+### Day 11: April 18, 2020 (Saturday)
+
+Skipped
+
 ### Day 10: April 17, 2020 (Friday)
 
 **Today's Progress**:
 Definitely didn't do an hour. Eep.
 
-- Tinkered with the Let's Get Away arrangement
+- Tinkered with the 'Let's Get Away' arrangement on Sonic Pi
+
+**Link(s) to work**: [Let's Get Away Song arrangement repo](https://github.com/sarahesbie/lets-get-away-arrangement)
 
 **Thoughts**
 I still feel like I'm a little bit all over the place. Maybe I should create a 'running projects list' in this github repo. That's a job for next week I think.
