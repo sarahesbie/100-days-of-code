@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log - Sarah Brown
 
+### Day 15: April 22, 2020 (Wednesday)
+
+**Today's Progress**:
+Continued through Ruby tutorial on Codecademy.
+Concepts covered:
+
+- Control Flow:
+  - `if`, `else`, and `elsif` statements
+  - relational operators `==, !=, <, <=, >, >=`
+  - boolean/logical operators `**, ||, !`
+  - `unless` statement
+- `include?` method (return true or false if a string does or doesn't include something)
+- `gsub` method (global substitute)
+
+https://www.codecademy.com/learn/learn-ruby/
+
 ### Day 14: April 21, 2020 (Tuesday)
 
 **Today's Progress**:
@@ -15,6 +31,8 @@ Concepts covered:
 - String interpolation
 - User input: gets and gets.chomp
 - Elseif statements
+
+https://www.codecademy.com/learn/learn-ruby/
 
 ### Day 13: April 20, 2020 (Monday)
 
