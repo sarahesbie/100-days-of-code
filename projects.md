@@ -33,11 +33,15 @@
 
 **Status**: in progress
 
+## Ruby Text Adventure Game
+
+https://repl.it/repls
+
 ---
 
 ## Project Ideas:
 
 - random generator (e.g. compliment generator, wine name generator, Gnome/ magical creature name generator for SC)
 - meditation visualisations
-- text-based adventure game
+- text-based adventure game - https://jsrn.gitbooks.io/make-your-first-text-adventure-in-ruby/content/index.html
 - RSS feed aggregator
