@@ -1,5 +1,28 @@
 # 100 Days Of Code - Log - Sarah Brown
 
+### Day 17: April 24, 2020 (Friday)
+
+Fun with Ruby:
+
+- Installing Ruby on my computer
+- Trying to make Ruby work on VS Code (sort of succeeding?)
+- Finding an [online IDE](https://repl.it/repls) and tinkering with it
+- Reading through [documentation on how to make a text-based adventure game with Ruby](https://jsrn.gitbooks.io/make-your-first-text-adventure-in-ruby/content/index.html) and starting to tinker in the online IDE
+
+**Thoughts**
+I'd love to have someone run me through how to actually get this up and running! I should ask around to see if someone is willing to coach me.
+
+### Day 16: April 23, 2020 (Thursday)
+
+**Today's Progress**:
+I'm counting the coding and software configuration I did for work towards today's 100 Days of Code challenge :P
+I was working on a Gitbook instance for some software documentation for my work. Fairly easy stuff, but new to me, so it was a learning challenge.
+
+- Set up a [Gitbook](https://gitlab.com/pages/gitbook) instance in GitLab
+- Started creating pages in my GitBook
+
+Next step is to work out how to deploy my [Gitbook to a Netlify host](https://www.netlify.com/blog/2015/12/08/a-step-by-step-guide-gitbook-on-netlify/) so that people can see it. Not sure if I can do this as it's a private repository. TBA.
+
 ### Day 15: April 22, 2020 (Wednesday)
 
 **Today's Progress**:
@@ -9,7 +32,7 @@ Concepts covered:
 - Control Flow:
   - `if`, `else`, and `elsif` statements
   - relational operators `==, !=, <, <=, >, >=`
-  - boolean/logical operators `**, ||, !`
+  - boolean/logical operators `&&, ||, !`
   - `unless` statement
 - `include?` method (return true or false if a string does or doesn't include something)
 - `gsub` method (global substitute)
