@@ -1,5 +1,45 @@
 # 100 Days Of Code - Log - Sarah Brown
 
+### Day 24: May 01, 2020 (Friday)
+
+CSS Animations
+
+- Started a just-for-fun project for visualising the 'square breathing' technique (breathe in, hold, breath out, hold)
+- Working with CSS animations to create a 'bubble' that follows the square in four-second intervals.
+- This is a WIP - I'll come back to it for sure, and maybe experiment with some other visualisations.
+- Next steps: tidy up the code, make sure the timing is right, adjust the colour palette, add text to prompt breathing
+
+**Link(s) to work**: [Square Breathing Visualisation repo](https://github.com/sarahesbie/square-breatihng)
+
+**Thoughts**
+It's really hard to dedicate one hour to writing code every single day. Especially if you're not supposed to count work. How are people supposed to work, eat regularly, walk 10,000 steps, spend time with people you like, read books, and be outside... AND spend an hour every day coding? I get that it's a challenge, and perhaps I'm not taking it _seriously_ enough. But, I don't really think that I need to.
+
+With that in mind, today I decided to have some fun with this and play with CSS animations.
+
+### Day 23: April 30, 2020 (Thursday)
+
+Skipped
+
+### Day 22: April 29, 2020 (Wednesday)
+
+Skipped
+
+### Day 21: April 28, 2020 (Tuesday)
+
+Skipped
+
+### Day 20: April 27, 2020 (Monday)
+
+Continued Ruby tutorial - forgot to log on the day, can't remember what I learned!!
+
+### Day 19: April 26, 2020 (Sunday)
+
+Skipped
+
+### Day 18: April 25, 2020 (Saturday)
+
+Skipped
+
 ### Day 17: April 24, 2020 (Friday)
 
 Fun with Ruby:
