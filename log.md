@@ -1,5 +1,32 @@
 # 100 Days Of Code - Log - Sarah Brown
 
+### Day 28: May 05, 2020 (Tuesday)
+
+**Today's Progress**:
+Codecademy Ruby Tutorial 26%
+
+- Looping with Ruby
+  - `While` loop to repeatedly run the code while a condition is true
+  - `Until` loop to repeadetly run the code until the condition becomes false
+  - `For` loop
+  - `Range` .. inclusive and ... exclusive
+  - `Loop` using do/end or {}
+  - `Next` to skip to the following iteration
+  - `Each` to iterate over each item in an array
+  - `Times` to execute a block of code a certain number of times
+
+### Day 27: May 04, 2020 (Monday)
+
+Skipped
+
+### Day 26: May 03, 2020 (Sunday)
+
+Skipped
+
+### Day 25: May 02 2020 (Saturday)
+
+Skipped
+
 ### Day 24: May 01, 2020 (Friday)
 
 CSS Animations
@@ -12,9 +39,7 @@ CSS Animations
 **Link(s) to work**: [Square Breathing Visualisation repo](https://github.com/sarahesbie/square-breatihng)
 
 **Thoughts**
-It's really hard to dedicate one hour to writing code every single day. Especially if you're not supposed to count work. How are people supposed to work, eat regularly, walk 10,000 steps, spend time with people you like, read books, and be outside... AND spend an hour every day coding? I get that it's a challenge, and perhaps I'm not taking it _seriously_ enough. But, I don't really think that I need to.
-
-With that in mind, today I decided to have some fun with this and play with CSS animations.
+It's really hard to dedicate one hour to writing code every single day. Especially if you're not supposed to count work. How are people supposed to work, eat regularly, walk 10,000 steps, spend time with people you like, read books, and be outside... AND spend an hour every day coding? I get that it's a challenge, and perhaps I'm not taking it _seriously_ enough. But, I don't really think that I need to. With that in mind, today I decided to have some fun with this and play with CSS animations.
 
 ### Day 23: April 30, 2020 (Thursday)
 
