@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log - Sarah Brown
 
+### Day 29: May 06, 2020 (Wednesday)
+
+**Today's Progress**:
+Codecademy Ruby Tutorial 36%
+
+- Arrays and Hashes
+  - Ruby arrays
+  - Array indeces
+  - Multidimensional arrays
+  - Ruby Hash - literal notation and Hash.new
+    - Key/value pairs
+    - Bracket notation for adding pairs
+  - Iterating over arrays and hashes using .each
+
 ### Day 28: May 05, 2020 (Tuesday)
 
 **Today's Progress**:
