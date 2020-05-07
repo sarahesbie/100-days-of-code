@@ -1,11 +1,33 @@
 # 100 Days Of Code - Log - Sarah Brown
 
+### Day 30 May 07, 2020 (Thursday)
+
+**Today's Progress**:
+Codecademy Ruby Tutorial 42%
+
+- Arrays and Hashes : building a Histogram
+
+```
+puts "user input pls"
+text = gets.chomp
+words = text.split
+frequencies = Hash.new(0)
+
+words.each {|word| frequencies[word] += 1 }
+frequencies = frequencies.sort_by {|a,b| b}
+frequencies.reverse!
+
+frequencies.each {|a,b|
+ puts a + " " + b.to_s
+}
+```
+
 ### Day 29: May 06, 2020 (Wednesday)
 
 **Today's Progress**:
 Codecademy Ruby Tutorial 36%
 
-- Arrays and Hashes
+- Arrays and Hashes Data Structures
   - Ruby arrays
   - Array indeces
   - Multidimensional arrays
