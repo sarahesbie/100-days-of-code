@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log - Sarah Brown
 
+### Day 31 May 08, 2020 (Friday)
+
+**Today's Progress**:
+Ok, so... maybe not code, but I did some work on a local version of a WordPress website to put up for my own site. It's been like... a year since I updated my personal site. Plan is to work on the local version for a few weeks and then when I'm happy with it, I'll update it (and share it... maybe).
+
 ### Day 30 May 07, 2020 (Thursday)
 
 **Today's Progress**:
