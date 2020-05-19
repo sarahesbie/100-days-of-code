@@ -1,5 +1,113 @@
 # 100 Days Of Code - Log - Sarah Brown
 
+### Day 42 May 19, 2020 (Tuesday)
+
+**Today's Progress**:
+Codecademy Ruby Tutorial 73%
+
+Refactoring in Ruby
+
+- `case` statement
+- `.respond_to?`
+- short-circuit evaluation
+- ternary operator
+- `.upto` and `.downto` methods
+- `||=` conditional assignment operator
+- `<<` concatenator (`.push` alternative)
+- `if` statement short expression
+- implicit return
+
+### Day 38 May 15, 2020 (Friday)
+
+**Today's Progress**:
+Codecademy Ruby Tutorial 63%
+
+```
+movies = {
+  rocky_horror: 10
+}
+puts "What would you like to do?"
+choice = gets.chomp
+
+case choice
+  when "add"
+    puts "what's your movie title?"
+    title = gets.chomp
+     if  movies[title.to_sym].nil?
+      puts "whats the rating?"
+      rating = gets.chomp
+  movies[title.to_sym] = rating.to_i
+    else
+      puts "this movie already exists!"
+    end
+  when "update"
+     puts "what's your movie title?"
+     title = gets.chomp
+     if movies[title.to_sym].nil?
+     puts "the movie is not in the hash"
+     else
+     puts "what is your new raiting?"
+     rating = gets.chomp
+     movies[title.to_sym] = rating.to_i
+     end
+ when "display"
+    movies.each { |movie, rating|
+    puts "#{movie}: #{rating}"
+
+    }
+  when "delete"
+    puts "whats your movie title?"
+    title = gets.chomp
+    movies.delete(title.to_sym)
+  else
+    puts "Error!"
+end
+```
+
+### Day 36 May 13, 2020 (Wednesday)
+
+**Today's Progress**:
+
+I read a few articles about how to create an RSS feed. I might try to build a Rails app... so, back to learning Ruby!
+
+Codecademy Ruby Tutorial 52%
+
+- Blocks and sorting: ordering a library
+- Hashes and Symbols
+
+  - Symbols are immutable names used as hash keys or for referencing methods
+  - `.select` method
+  - `.each_key` and `.each_value`
+
+### Day 35
+
+Skipped
+
+### Day 34 May 11, 2020 (Monday)
+
+**Today's Progress**:
+Codecademy Ruby Tutorial 47%
+
+- Blocks and Sorting
+
+  - Combined comparison operator `<=>`
+  - Ruby Method splat `*`
+  - Block parameters
+  - `Return` to pass values into methods
+  - `.sort!` method to sort arrays
+  - Parameters and Arguments
+  - Defining Ruby methods with `def`
+
+  https://www.codecademy.com/learn/learn-ruby/modules/learn-ruby-blocks-and-sorting-u/cheatsheet
+
+### Day 33 May 10, 2020 (Sunday)
+
+Skipped
+
+### Day 32 May 09, 2020 (Saturday)
+
+Skipped
+
 ### Day 31 May 08, 2020 (Friday)
 
 **Today's Progress**:
@@ -155,7 +263,7 @@ Concepts covered:
 - Puts and print
 - Single-line and multi-line comments
 - Data types: numeric, string, boolean
-- Arithmetic operations
+- Arithmetic operators: `+`, `-`, `*`, `/`, `**`, `%`
 - Object methods: .upcase, .downcase, .capitalize, .reverse
 - String interpolation
 - User input: gets and gets.chomp
